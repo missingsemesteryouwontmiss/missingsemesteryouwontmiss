@@ -4,14 +4,13 @@
 
 **P.S.** This course is not about Excel; I don’t know how to use it.
 
-### Core course modules
+## Lectures
 
-1. Shell
-2. Command-Line environment
-3. Git
-4. Security practices
-5. CI
-6. Docker, Kubernetes (?) 
+- [1 · Around The Shell](_app/_posts/2023-11-7-1.md)
+- [2 · Lose Yourself to Scripting](_app/_posts/2023-11-14-2.md)
+- [3 · Git Lucky](_app/_posts/2023-11-14-3.md)
+- [4 · The Game of Vim](_app/_posts/2023-11-21-4.md)
+- [5 · Fragments of DevOps](_app/_posts/2023-11-21-5.md)
 
 > [!NOTE]
 > The course content is adapted and expanded from **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** by MIT, but comes with additional practical tasks, topics, and supplemental materials.

@@ -1,0 +1,31 @@
+---
+layout: default
+permalink: /
+---
+
+{%- include amsf/core -%}
+
+<!-- Article wrapper, limit width -->
+<article>
+
+  <!-- Post title -->
+  <header>
+    <h1>🔮 TMSYCSE*</h1>
+    <h2>* The Missing Semester of Your CS Education you won’t miss</h2>
+    The basics of CS tooling skills that will help you with your study, an internship, or even a new job.
+    The course content is adapted and expanded from The Missing Semester of Your CS Education by MIT, but comes with additional practical tasks, topics, and supplemental materials.
+
+    <h3>Target audience</h3>
+    <p>This course is for anyone willing to be familiar with the necessary tools, work daily, and achieve as little friction as possible. The curriculum does not emphasize peripheral command-line arguments; instead, the primary focus is to ensure participants achieve proficiency in utilizing helpful tools.</p>
+
+    <h3>Course outcomes</h3>
+    <p>Student of this course will be equipped with practical skills to optimize their workflows, be comfortable with lots of new and old approaches and utilities, and be more prepared to work and continuously learn the ever-evolving field of computer science.</p>
+  </header>
+
+  <div class="page-content">
+    <h2>Lectures</h2>
+    {% for post in site.tags.getting-started %}
+    {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
+    {% endfor %}
+  </div>
+</article>
