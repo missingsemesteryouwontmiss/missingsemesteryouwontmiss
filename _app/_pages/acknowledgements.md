@@ -39,6 +39,7 @@ This list will be updated [^1]
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [Special Characters](https://tldp.org/LDP/abs/html/special-chars.html)
+- [Docker Demystified](https://dev.to/frosnerd/docker-demystified-27kl)
 
 
 [^1]: Don't hesitate to contact [me](https://tiulp.in) in case you want to add something.

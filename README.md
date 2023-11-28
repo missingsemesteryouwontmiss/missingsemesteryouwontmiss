@@ -11,6 +11,8 @@
 - [3 · Git Lucky](_app/_posts/2023-11-14-3.md)
 - [4 · The Game of Vim](_app/_posts/2023-11-21-4.md)
 - [5 · Fragments of DevOps](_app/_posts/2023-11-21-5.md)
+- [6 · Sicherheitskonzepte](_app/_posts/2023-11-28-6.md)
+- [7 · Something About Containers](_app/_posts/2023-11-28-7.md)
 
 > [!NOTE]
 > The course content is adapted and expanded from **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** by MIT, but comes with additional practical tasks, topics, and supplemental materials.
